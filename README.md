@@ -2,6 +2,7 @@
 Nikitha's Personal Portfolio
 
 Welcome to my **personal portfolio website**, built using **HTML, CSS, and JavaScript**, to showcase my education, skills, certifications, and contact information.
+
  Features
 - Responsive homepage
 - Smooth navigation bar with scroll links
